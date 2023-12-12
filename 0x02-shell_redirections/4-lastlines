@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -10 /tmp/passwd
+tail /tmp/passwd
